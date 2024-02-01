@@ -1,0 +1,11 @@
+{
+  "name": "ryderdet/328/week5",
+  "description": "Week 5 Repository",
+  "authors": [{
+    "name": "Ryder",
+    "email":  "rldettloff@gmail.com"
+  }],
+  "require-dev": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
